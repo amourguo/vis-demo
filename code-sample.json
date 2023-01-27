@@ -1,4 +1,4 @@
-{
+const codeSample = {
   id: "viz01",
   name: "GCP Architecture",
   version: "1.0.0",
